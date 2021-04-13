@@ -1,0 +1,65 @@
+{
+	"@context": [
+		"http://iiif.io/api/presentation/2/context.json",
+		"http://codh.rois.ac.jp/iiif/curation/1/context.json"
+	],
+	"@type": "cr:Curation",
+	"@id": "https://mp.ex.nii.ac.jp/api/curation/json/d281f64b-dc97-477e-a6aa-ea5f41f2ec2a",
+	"label": "Curating list",
+	"selections": [
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/range/r1",
+			"@type": "sc:Range",
+			"label": "Manual curation by IIIF Curation Viewer",
+			"members": [
+				{
+					"@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/canvas/canvas-307",
+					"@type": "sc:Canvas",
+					"label": "f. 151r",
+					"description": ""
+				},
+				{
+					"@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/canvas/canvas-308",
+					"@type": "sc:Canvas",
+					"label": "f. 151v",
+					"description": ""
+				},
+				{
+					"@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/canvas/canvas-309",
+					"@type": "sc:Canvas",
+					"label": "f. 152r",
+					"description": ""
+				},
+				{
+					"@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/canvas/canvas-310",
+					"@type": "sc:Canvas",
+					"label": "f. 152v",
+					"description": ""
+				},
+				{
+					"@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/canvas/canvas-311",
+					"@type": "sc:Canvas",
+					"label": "f. 153r",
+					"description": ""
+				},
+				{
+					"@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/canvas/canvas-312",
+					"@type": "sc:Canvas",
+					"label": "f. 153v",
+					"description": ""
+				},
+				{
+					"@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/canvas/canvas-313",
+					"@type": "sc:Canvas",
+					"label": "f. 154r",
+					"description": ""
+				}
+			],
+			"within": {
+				"@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/manifest.json",
+				"@type": "sc:Manifest",
+				"label": "Cambridge, Corpus Christi College, MS 272: The Psalter of Count Achadeus"
+			}
+		}
+	]
+}
