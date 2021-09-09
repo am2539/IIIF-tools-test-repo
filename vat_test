@@ -41,7 +41,7 @@
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.15294.pt.1/Vat.lat.15294.pt.1_0009_fa_0003r.%5B02.hn.0000%5D.jp2",
+									"@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.15294.pt.1/Vat.lat.15294.pt.1_0009_fa_0003r.%5B02.hn.0000%5D.jp2/1268,243,1281,452/full/0/default.jpg",
 									"profile": [
 										"http://iiif.io/api/image/2/level1.json",
 										{
